@@ -1,4 +1,4 @@
-# resume
+# resume flutter
 
 A new Flutter application.
 My resume.
